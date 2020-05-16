@@ -16,19 +16,10 @@ class Home extends StatelessWidget {
         backgroundColor: Colors.red[600],
       ),
       body: Center(
-        child: Text(
-          "Hello, ninjas!",
-          style: TextStyle(
-            fontSize: 20,
-            fontWeight: FontWeight.bold,
-            letterSpacing: 2,
-            color: Colors.grey[600],
-            fontFamily: "IndieFlower",
-          ),
-        ),
+        child: Image.asset('assets/space-3.jpg'),
       ),
       floatingActionButton: FloatingActionButton(
-        child: Text("Click"),
+        child: Text('Click'),
         backgroundColor: Colors.red[600],
         onPressed: null,
       ),
