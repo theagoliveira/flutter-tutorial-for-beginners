@@ -11,4 +11,4 @@ From the YouTube playlist description:
 
 ## Deployment
 
-Last tutorial project (`world_time`) deployed on [GitHub Pages](https://theagoliveira.github.io/flutter-tutorial-for-beginners/)
+Web build of the last tutorial project (`world_time`) deployed on [GitHub Pages](https://theagoliveira.github.io/flutter-tutorial-for-beginners/)
