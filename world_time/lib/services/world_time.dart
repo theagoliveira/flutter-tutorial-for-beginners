@@ -14,7 +14,7 @@ class WorldTime {
   Future<void> getTime() async {
     try {
       Response response =
-          await get('http://worldtimeapi.org/api/timezone/$url');
+          await get('https://worldtimeapi.org/api/timezone/$url');
       Map data = jsonDecode(response.body);
       // print(data);
 

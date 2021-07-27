@@ -57259,7 +57259,7 @@ lO(){var s=0,r=P.a7(t.H),q=1,p,o=[],n=this,m,l,k,j,i,h,g,f,e,d,c,b
 var $async$lO=P.a2(function(a,a0){if(a===1){p=a0
 s=q}while(true)switch(s){case 0:q=3
 s=6
-return P.aa(G.arR("http://worldtimeapi.org/api/timezone/"+n.d),$async$lO)
+return P.aa(G.arR("https://worldtimeapi.org/api/timezone/"+n.d),$async$lO)
 case 6:m=a0
 f=m
 l=C.aA.Gf(0,B.arG(U.apN(f.e).c.a.i(0,"charset")).cJ(0,f.x),null)
